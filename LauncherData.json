@@ -1,9 +1,8 @@
 {
     "NewsData": [
-        [1, "afmawfaf"],
-        [2, "08/11/2021: Ez Hub 4.2.1 has been released. This update attempts to fix major bugs such as the ESP performance issue."],
-        [3, "10/11/2021: Ez Hub 4.2.2 has been released. A few minor fixes and minor optimisations with the ESP. 4.2.2 concludes Ez Hub 4.2 (unless further major bugs arise). Make sure to report bugs in our Discord."],
-        [4, "elo"]
+        [1, "6/25/2022: LixtronHub 1.0 has been released!"],
+        [2, "6/25/2022 be aware of big bugs with the script"],
+        [3, "7/25/2022: We are aware of the bugs with some scripts working on updates soon!"]
     ],
     "StatusData": {
         "EzHub": "Online",
